@@ -1,3 +1,3 @@
 # Peertube Repo of Examplitude
 
-Example
+Examples are cool
